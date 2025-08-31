@@ -10,7 +10,7 @@ This project showcases a responsive navbar, hero section, features grid, carouse
 ---
 
 ## 🚀 Live Demo (GitHub Pages)
-Site will be available at:
+Site will be available at: https://rootblack04.github.io/move-it-bootstrap/
 
 ## ▶️ Getting Started (Local)
 Just open `index.html` in your browser.  
